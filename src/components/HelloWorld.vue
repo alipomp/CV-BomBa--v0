@@ -2,7 +2,8 @@
   <div class="hello">
     <h1>{{ msg }}</h1>
     <h3>he I'm hussein abdo </h3>
-    <p>My job is a <h4 style="display: inline;">full stack web developer</h4></p>
+    <p>My job is a</p>
+    <h4 style="display: inline;">full stack web developer</h4>
   </div>
 </template>
 
